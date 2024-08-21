@@ -1,3 +1,5 @@
+ Atye
+
 - 👋 Hi, I’m @Theejmanz
 - 👀 I’m interested technology and gaming
 - 🌱 I’m currently learning Python
